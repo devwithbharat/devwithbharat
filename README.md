@@ -57,7 +57,7 @@ ASP.NET Core • Entity Framework Core • REST APIs • SignalR
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mssql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 SQL Server
