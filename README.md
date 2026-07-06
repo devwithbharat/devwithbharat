@@ -34,13 +34,13 @@
 
 ### Languages
 
-<p align="center">
+<p>
  <img src="https://skillicons.dev/icons?i=cs,js,python"/>
 </p>
 
 ### Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=dotnet"/>
 </p>
 
@@ -48,13 +48,13 @@ ASP.NET Core • Entity Framework Core • REST APIs • SignalR
 
 ### Frontend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
 </p>
 
 ### Database
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
@@ -62,7 +62,7 @@ SQL Server
 
 ### Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
 </p>
 
