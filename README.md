@@ -28,8 +28,6 @@
 
 🎯 Goal: Build software that solves real-world problems.
 
-♟️ Chess | 💪 Fitness | 📖 Continuous Learning
-
 ---
 
 # 🚀 Tech Stack
