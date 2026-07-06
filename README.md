@@ -83,7 +83,7 @@ SQL Server
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devwithbharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devwithbharat&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ SQL Server
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devwithbharat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=devwithbharat&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
