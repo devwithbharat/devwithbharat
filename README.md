@@ -37,7 +37,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithbharat&layout=compact&theme=tokyonight&hide_border=true" />
+ <img src="https://skillicons.dev/icons?i=cs,java,js,python,cpp"/>
 </p>
 
 ### Backend
