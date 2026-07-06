@@ -99,7 +99,7 @@ SQL Server
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devwithbharat&theme=onedark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devwithbharat&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
