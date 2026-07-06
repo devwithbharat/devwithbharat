@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Bharat-ka22&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=devwithbharat&style=for-the-badge&color=blue"/>
 </p>
 
 ---
@@ -84,9 +84,9 @@ SQL Server
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharat-ka22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devwithbharat&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat-ka22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithbharat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ SQL Server
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-ka22&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devwithbharat&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@ SQL Server
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bharat-ka22&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devwithbharat&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -116,7 +116,7 @@ SQL Server
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-ka22&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devwithbharat&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
