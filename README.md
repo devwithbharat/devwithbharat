@@ -95,9 +95,7 @@ SQL Server
 # 🔥 GitHub Streak
 
 <p align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devwithbharat&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=devwithbharat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
