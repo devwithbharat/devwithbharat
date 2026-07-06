@@ -94,18 +94,6 @@ SQL Server
   <img src="https://streak-stats.demolab.com?user=devwithbharat&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devwithbharat&theme=github-dark&hide_border=true" />
-</p>
-</p>
-
----
-
 <p align="center">
 
 ### ⭐ Thanks for visiting!
