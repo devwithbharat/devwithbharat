@@ -37,7 +37,7 @@
 ### Languages
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=cs,java,js,python,cpp"/>
+ <img src="https://skillicons.dev/icons?i=cs,js,python"/>
 </p>
 
 ### Backend
