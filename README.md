@@ -1,16 +1,129 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bharatkumar Naik</h1>
 
-<!--
-**devwithbharat/devwithbharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=650&lines=Software+Developer;ASP.NET+Core+Developer;Open+Source+Enthusiast;Always+Learning+Something+New🚀" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:bharatkumarnaik54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Bharat-ka22&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 💫 About Me
+
+💻 Software Developer passionate about building scalable applications.
+
+🚀 Currently exploring Open Source, AI and System Design.
+
+📚 Learning Data Structures & Algorithms.
+
+🎯 Goal: Build software that solves real-world problems.
+
+♟️ Chess | 💪 Fitness | 📖 Continuous Learning
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,js,python,cpp"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+</p>
+
+ASP.NET Core • Entity Framework Core • REST APIs • SignalR
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+SQL Server
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 📚 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- ☁ Cloud Technologies
+- 🏗 System Design
+- 🌍 Open Source Development
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharat-ka22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat-ka22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-ka22&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bharat-ka22&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-ka22&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Keep Building • Keep Learning • Keep Sharing"*
+
+</p>
